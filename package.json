@@ -1,0 +1,19 @@
+{
+  "name": "webpack-app",
+  "version": "1.0.0",
+  "description": "用webpack搭建自己的app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/renjing940419/webpack-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/renjing940419/webpack-app/issues"
+  },
+  "homepage": "https://github.com/renjing940419/webpack-app"
+}
